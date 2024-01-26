@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thank you for stopping by this humble portfolio!
+
+If you're looking for a very creative frontend developer, I am sure I am the one you've been looking for. Maybe that's why you're here, though 🤔. Anyway, feel free to stalk over my projects all taht you want!
+
 <!--
 **K1mera/K1mera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
