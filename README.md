@@ -11,8 +11,6 @@ Skills: REACT / ANGULAR / JS / HTML / CSS / TAILWIND / BOOSTRAP / NODEJS / TYPES
 - 👯 I’m looking to collaborate on anything! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/K1mera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-chac%C3%B3n-450629137//)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=K1mera)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=K1mera&show_icons=true)  
